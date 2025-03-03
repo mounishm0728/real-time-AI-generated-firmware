@@ -1,0 +1,4 @@
+git add .
+git commit -m "Initial commit - AI-generated IoT firmware"
+git branch -M main
+git push origin main
